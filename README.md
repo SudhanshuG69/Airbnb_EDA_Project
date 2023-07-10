@@ -73,6 +73,7 @@ Data dictionaries are used to provide detailed information about the contents of
 
 ## Time-Series Analysis
 <img width = "845" alt = "D1" src= "https://github.com/SudhanshuG69/Airbnb_EDA_Project/assets/128242327/b65eac4d-aabc-46db-84c3-0a89c721344a">
+
 # Data Understanding
 - Here we have a DataFrame with 102,599 rows and 26 columns.
 
